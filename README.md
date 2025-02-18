@@ -53,7 +53,7 @@ This dataset is useful for:
 
 ## Tools Used
 
-- **Excel Dashboard** (for cleaning & dashboard/report creation)
+- **Excel** (for cleaning & dashboard/report creation)
 
 ## Conclusion
 Understanding road accident data helps in identifying critical factors contributing to accidents. This project provides key insights that can aid policymakers, traffic authorities, and researchers in making data-driven safety improvements.
