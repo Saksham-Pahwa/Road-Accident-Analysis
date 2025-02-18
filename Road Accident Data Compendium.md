@@ -1,4 +1,4 @@
-# Road Accident Dataset Dictionary
+# Road Accident Dataset Compendium
 
 ## Overview
 This dataset contains detailed records of road accidents, including information on accident severity, location, environmental conditions, and vehicle involvement.
