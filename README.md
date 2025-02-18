@@ -1,10 +1,10 @@
 # Road Accident Data Analysis 🚧💥🚗
 
-## Overview
+## 📌Overview
 This project presents an interactive dashboard for analyzing road accident data, offering insights into key performance indicators (KPIs), monthly trends, and accident distributions based on road type and surface conditions. It includes in-depth analysis to uncover patterns, correlations, and contributing factors, helping to identify critical areas for improving road safety and decision-making.
 
 
-## Critical Insights
+## 🔍Critical Insights
 
 - **Total Casualties Recorded:** 417,883
 - **Most Dangerous Road Type:** Roundabouts had the highest number of casualties (26,828).
@@ -12,7 +12,7 @@ This project presents an interactive dashboard for analyzing road accident data,
 - **Speed Limit Trend:** Most accidents happened on roads with a **30 mph speed limit**.
 - **Most Common Light Condition:** The majority of accidents occurred during **daylight** conditions.
 
-## 📊 Key Insights
+## 📊Key Insights
 
 - **Peak Accident Days:** Higher accident occurrences on weekdays, especially **Monday and Friday**.
 - **Time of Accidents:** Most accidents happen during **rush hours (8-10 AM & 4-7 PM)**.
@@ -21,7 +21,7 @@ This project presents an interactive dashboard for analyzing road accident data,
 - **Surface Conditions:** Majority of accidents occur on **dry roads**, but wet and icy roads show a higher severity rate.
 - **Vehicle Involvement:** **Cars & motorcycles** are the most common vehicles involved in accidents.
 
-## Dataset Description
+## 📊Dataset Description
 
 The dataset contains multiple features describing accident details, including:
 
@@ -38,22 +38,22 @@ The dataset contains multiple features describing accident details, including:
 - `Urban_or_Rural_Area`: Whether the accident happened in an urban or rural setting.
 - `Vehicle_Type`: The type of vehicle(s) involved in the accident.
 
-## Project Files
+## 📂Project Files
 
 - **Dataset** - Contains the raw accident data.
 - **Dashboard Analysis** - Summarizes insights through data visualizations.
 - **Exploratory Data Analysis (EDA)** - Identifies patterns and key metrics.
 
-## Usage
+## 🛠️Usage
 
 This dataset is useful for:
 - Analyzing accident hotspots.
 - Identifying risky road/weather conditions.
 - Predicting accident severity based on road conditions.
 
-## Tools Used
+## 🖥️Software & Tools Used
 
 - **Excel** (for cleaning & dashboard/report creation)
 
-## Conclusion
+## 🚦Conclusion
 Understanding road accident data helps in identifying critical factors contributing to accidents. This project provides key insights that can aid policymakers, traffic authorities, and researchers in making data-driven safety improvements.
