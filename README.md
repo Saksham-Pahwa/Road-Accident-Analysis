@@ -15,20 +15,20 @@ This project presents an interactive dashboard for analyzing road accident data,
 ## Dataset Description
 The dataset contains multiple features describing accident details, including:
 
-| Column Name                  | Description |
+Column Name                   Description
 |------------------------------|-------------|
-| `Accident_Index`             | Unique accident record identifier. |
-| `Accident Date`              | Date of the accident. |
-| `Day_of_Week`                | Day of the week the accident occurred. |
-| `Accident_Severity`          | Categorization into Fatal, Serious, or Slight. |
-| `Junction_Control`           | Control type at the junction, if applicable. |
-| `Road_Surface_Conditions`    | Dry, Wet, Snow/Ice, etc. |
-| `Weather_Conditions`         | Weather impact at the time of the accident. |
-| `Number_of_Casualties`       | Total casualties in the accident. |
-| `Number_of_Vehicles`         | Vehicles involved in the accident. |
-| `Speed_limit`                | Speed limit of the road at the accident location. |
-| `Urban_or_Rural_Area`        | Whether the accident occurred in an urban or rural setting. |
-| `Vehicle_Type`               | Type of vehicle(s) involved in the accident. |
+ `Accident_Index`              Unique accident record identifier. 
+ `Accident Date`               Date of the accident. 
+ `Day_of_Week`                 Day of the week the accident occurred. 
+ `Accident_Severity`           Categorization into Fatal, Serious, or Slight. 
+ `Junction_Control`            Control type at the junction, if applicable. 
+ `Road_Surface_Conditions`     Dry, Wet, Snow/Ice, etc. 
+ `Weather_Conditions`          Weather impact at the time of the accident. 
+ `Number_of_Casualties`        Total casualties in the accident. 
+ `Number_of_Vehicles`          Vehicles involved in the accident. 
+ `Speed_limit`                 Speed limit of the road at the accident location. 
+ `Urban_or_Rural_Area`         Whether the accident occurred in an urban or rural setting. 
+ `Vehicle_Type`                Type of vehicle(s) involved in the accident. 
 
 ## Project Files
 - **Dataset** - Contains the raw accident data.
